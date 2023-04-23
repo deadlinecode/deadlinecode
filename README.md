@@ -1,3 +1,13 @@
+<div align="left">
+  <a href="https://app.daily.dev/deadlinecode" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/b63a7f58eede46778338be143205b87f.png?r=u2o"
+    />
+  </a>
+</div>
+
 # 💫 About Me:
 👾  LvL 18<br>🏳️‍🌈  He/Him + Pan<br>🔭  I'm currently working on [BunORM, a ORM system for bun:sqlite](https://github.com/deadlinecode/BunORM)<br>🤝  I'm looking for help with my baileys-bottle store package<br>🌱  I'm currently learning everything & nothing<br>💬  Ask me about WebPush Magic :><br>⚡  Fun fact: I developt a lib for the OSC protocol to control a X32 digital mixer
 
