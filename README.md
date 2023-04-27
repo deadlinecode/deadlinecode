@@ -3,7 +3,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/b63a7f58eede46778338be143205b87f.png?r=47v"
+      src="https://api.daily.dev/devcards/b63a7f58eede46778338be143205b87f.png"
     />
   </a>
 </div>
